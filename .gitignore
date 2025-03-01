@@ -1,15 +1,12 @@
-# Python bytecode files
 *.pyc
 __pycache__/
 
-# Virtual environment
 .venv/
 env/
 venv/
 .conda/
-# Django secret key
+
 *.env
 
-# IDE configurations
 .idea/
 
