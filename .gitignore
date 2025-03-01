@@ -1,8 +1,15 @@
-# Python
+# Python bytecode files
+*.pyc
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
+
+# Virtual environment
 .venv/
+env/
+venv/
+.conda/
+# Django secret key
+*.env
+
+# IDE configurations
+.idea/
 
